@@ -5,5 +5,9 @@ for (let i = 20; i >= 1; i--) {
         sum = sum + i;
         // console.log(sum)
     }
+   /*  if (i % 2 == 0) {
+        sum = sum + i;
+        // console.log(sum)
+    } */
 }
-console.log(sum);
+console.log(sum); 
